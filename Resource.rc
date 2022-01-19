@@ -1,0 +1,9 @@
+#include "Resource.h"
+
+//String table
+STRINGTABLE
+{
+    IDS_FRAMECLASSNAME, "PROGRAMPROJECTENERGYSAVING"
+    IDS_FRAMEWINDOWCAPTION, "Энергосбережение. Конфигуратор"
+    IDS_MDICLIENT, "MDICLIENT"
+}

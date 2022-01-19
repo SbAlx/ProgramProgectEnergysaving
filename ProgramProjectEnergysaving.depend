@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1642588444 source:c:\users\sbalx\desktop\programprojectenergysaving\resource.rc
+	"Resource.h"
+
+1642588459 c:\users\sbalx\desktop\programprojectenergysaving\resource.h
+
+1642590839 source:c:\users\sbalx\desktop\programprojectenergysaving\main.cpp
+	<windows.h>
+	"Resource.h"
+
